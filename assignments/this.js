@@ -61,3 +61,5 @@ zerg.speak();
 // Principle 4
 
 // code example for Explicit Binding
+
+zerg.speak.call(protoss);
